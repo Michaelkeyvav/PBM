@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "daku",
     "short_name": "daku",
+=======
+    "name": "musik",
+    "short_name": "musik",
+>>>>>>> 43de68a (prak04)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

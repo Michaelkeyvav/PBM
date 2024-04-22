@@ -3,6 +3,10 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+<<<<<<< HEAD
+=======
+  audioplayers_linux
+>>>>>>> 43de68a (prak04)
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST

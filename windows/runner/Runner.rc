@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "daku" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "daku" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "daku.exe" "\0"
             VALUE "ProductName", "daku" "\0"
+=======
+            VALUE "FileDescription", "musik" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "musik" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "musik.exe" "\0"
+            VALUE "ProductName", "musik" "\0"
+>>>>>>> 43de68a (prak04)
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
